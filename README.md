@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**TomaszAleksanderSzewczyk/TomaszAleksanderSzewczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there! I apreciate that you sacrifice your time to be here! It means a lot for me! 👋
+![Logo](https://ibb.co/WBGm9Qc)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on games with Pygame library!
+- 🌱 I’m currently learning Python, C# and other collage stuff!
+- 👯 I’m looking to collaborate on Python, C++
+- 🤔 I’m looking for help with find my first job, no matter where, matter with who!
+- 💬 Ask me about anything you want, I am open for business
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/tommyszewczyk/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am happy especially when I am eating ;) 
+
