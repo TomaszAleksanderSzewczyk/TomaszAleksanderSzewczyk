@@ -1,6 +1,5 @@
 ### Hi there! I apreciate that you sacrifice your time to be here! It means a lot for me! 👋
-<a href="https://ibb.co/WBGm9Qc"><img src="https://i.ibb.co/JrmDLNz/logo.png" alt="logo" border="0" text-align: center; ></a>
-Here are some ideas to get you started:
+![Github logo](/logo.png)
 
 - 🔭 I’m currently working on games with Pygame library!
 - 🌱 I’m currently learning Python, C# and other collage stuff!
