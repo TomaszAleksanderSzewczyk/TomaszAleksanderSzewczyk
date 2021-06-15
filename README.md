@@ -8,4 +8,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tommyszewczyk/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: First time I decided to buy cryptocurrencies I didn't know it can make me wealthy.
-
+My website: szewczyktomasz.pl
