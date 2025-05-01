@@ -1,11 +1,9 @@
-### Hi there! I apreciate that you sacrifice your time to be here! It means a lot for me! 👋
-![Github logo](/logo.png)
+### Hi I am Tomasz and I am Frontend Developer with 3 years commercial experience 👋
 
-- 🔭 I’m currently working on improving my skills in Frontend Development.
-- 🌱 I’m currently learning web development technologies - React, JavaScript,HTML&CSS.
-- 🤔 I’m looking for my first job, no matter where, matter with who!
+- 🔭 I’m currently working on React Native app.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🤔 I am AI enthusiasm and representant of new school programming. 
 - 💬 Ask me about anything you want, I am open for business.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tommyszewczyk/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: First time I decided to buy cryptocurrencies I didn't know it can make me wealthy.
-
+- ⚡ Fun fact: cyborg chess or centaur chess  is a form of chess in which each human player uses a computer chess engine to explore the possible results of candidate moves. 
